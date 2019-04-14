@@ -1,0 +1,3 @@
+rootProject.name = 'sticky_run_2277'
+
+include ':app'
